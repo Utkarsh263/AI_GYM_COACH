@@ -16,7 +16,7 @@ This application analyzes user body posture in real-time through webcam input, t
 
 ## ✅ AI Workout Coaching
 
-* Integrates Groq LLM for dynamic coaching feedback.
+* Integrates Groq LLM's for dynamic coaching feedback.
 * Generates contextual fitness guidance.
 * Motivational AI responses during workouts.
 
