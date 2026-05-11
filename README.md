@@ -127,7 +127,7 @@ AI_Gym_Coach/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/AI_Gym_Coach.git
+git clone https://github.com/Utkarsh263/AI_Gym_Coach.git
 ```
 
 ---
