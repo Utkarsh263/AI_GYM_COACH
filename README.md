@@ -175,7 +175,7 @@ Create:
 Add:
 
 ```toml
-GROQ_API_KEY = "your_api_key_here"
+GROQ_API_KEY = "gsk_"
 ```
 
 ---
